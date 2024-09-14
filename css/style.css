@@ -1,0 +1,128 @@
+.parent{
+overflow: auto;
+
+}
+.header{
+width: 90%;
+height: 50px;
+background-color: aquamarine;
+margin-left: 40px;
+position: fixed;
+
+top: 0;
+z-index: 20px;
+float: left;
+
+
+}
+.img1{
+  width: 80px;
+  height: 43px;
+  margin-top: 3px;
+ margin-left: 50px; 
+ background-color: rgb(237, 245, 237); 
+ padding: 10px; 
+ box-sizing: border-box;
+ float: left;
+}
+.ul1{
+    float: right;
+}
+
+
+.ul1 li{
+list-style: none;
+display: inline-block;
+float: right;
+margin-right: 20px;
+
+}
+
+.ul1 li button{
+background-color: rgb(100, 185, 157);
+
+}
+.ul1 li button:hover{
+background-color: rgb(199, 235, 223);
+
+
+}
+.div2{
+position: absolute;
+float: left;
+top: 45px;
+left: 475px;
+}
+
+.div3{
+
+margin-top: 150px;
+margin-left: 50px;
+width: 920px;
+height: 500px;
+background-color: aquamarine;
+  overflow: auto;
+
+}
+
+hr{
+ width: 50px;
+  
+}
+.div4{
+width: 250px;
+height: 440px;
+float: left;
+margin-top: 50px;
+margin-left: 50px;
+border: 1px   black  solid;
+text-align: center;
+}
+.div5{
+  width: 220px;
+  height: 440px;
+  
+float: left;
+margin-top: 50px;
+margin-left: 50px;
+border: 1px   black  solid;
+text-align: center;
+}
+.div6{
+width: 230px;
+height: 440px;
+border: 1px   black  solid;
+float: left;
+margin-top: 50px;
+margin-left: 50px;
+text-align: center;
+
+}
+.divc1{
+  width: 80px;
+  height: 80px;
+  border-radius: 50px;
+  color: rgb(0, 0, 0);
+  border: 2px rgb(4, 87, 59) solid;
+  background-color: rgb(252, 250, 250);
+  margin: auto;
+  text-align: center;
+}
+.hr2{
+
+width: 200px;
+
+border: 1px rgb(79, 139, 131) solid;
+
+}
+.b3{
+  background-color: rgb(4, 87, 59);
+color: aliceblue;
+margin-top: 20px;
+
+}
+.b3:hover{
+background-color: rgb(127, 197, 174);
+
+
+}
